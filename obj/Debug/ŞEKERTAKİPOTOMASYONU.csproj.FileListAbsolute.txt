@@ -1,0 +1,21 @@
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\Seker TakipOtomasyonu\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\Seker TakipOtomasyonu\ŞEKERTAKİPOTOMASYONU\obj\Debug\SekerTakipOtomasyonu.Form1.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\Seker TakipOtomasyonu\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.Properties.Resources.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\Seker TakipOtomasyonu\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.csproj.GenerateResource.cache
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\Seker TakipOtomasyonu\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\Seker TakipOtomasyonu\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.pdb
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\Seker TakipOtomasyonu\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.Form1.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\bin\Debug\ŞEKERTAKİPOTOMASYONU.exe.config
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\bin\Debug\ŞEKERTAKİPOTOMASYONU.exe
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\bin\Debug\ŞEKERTAKİPOTOMASYONU.pdb
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.AnaSayfa.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.Form1.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.Kullanici.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.Properties.Resources.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.csproj.GenerateResource.cache
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.exe
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.pdb
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.Form2.resources
+C:\Users\eylul\OneDrive\Masaüstü\arimaya\ŞEKERTAKİPOTOMASYONU\ŞEKERTAKİPOTOMASYONU\obj\Debug\ŞEKERTAKİPOTOMASYONU.randevuİslemleri.resources
